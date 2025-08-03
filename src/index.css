@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+
+@font-face {
+  font-family: 'Clash Display';
+  src: url('assets/fonts/ClashDisplay-Extralight.woff2') format('woff2'),
+      url('assets/fonts/ClashDisplay-Extralight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('assets/fonts/ClashDisplay-Light.woff2') format('woff2'),
+      url('assets/fonts/ClashDisplay-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('assets/fonts/ClashDisplay-Regular.woff2') format('woff2'),
+      url('assets/fonts/ClashDisplay-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('assets/fonts/ClashDisplay-Medium.woff2') format('woff2'),
+      url('assets/fonts/ClashDisplay-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('assets/fonts/ClashDisplay-Semibold.woff2') format('woff2'),
+      url('assets/fonts/ClashDisplay-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('assets/fonts/ClashDisplay-Bold.woff2') format('woff2'),
+      url('assets/fonts/ClashDisplay-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Global mystical background */
+html, body {
+  background: 
+    radial-gradient(circle at 20% 80%, rgba(120, 119, 198, 0.3) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(255, 119, 198, 0.15) 0%, transparent 50%),
+    radial-gradient(circle at 40% 40%, rgba(120, 219, 255, 0.1) 0%, transparent 50%),
+    linear-gradient(135deg, #0f0f23 0%, #1a1a3e 30%, #2d1b69 70%, #1a0f3e 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  /* Optimize for smooth scrolling */
+  will-change: scroll-position;
+  scroll-behavior: smooth;
+}
+
+/* Animated star background for entire site - optimized for performance */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    radial-gradient(4px 4px at 20px 30px, rgba(255, 255, 255, 0.15), transparent),
+    radial-gradient(3px 3px at 40px 70px, rgba(255, 215, 0, 0.1), transparent),
+    radial-gradient(3px 3px at 90px 40px, rgba(255, 255, 255, 0.12), transparent),
+    radial-gradient(2px 2px at 130px 80px, rgba(255, 215, 0, 0.08), transparent),
+    radial-gradient(4px 4px at 160px 30px, rgba(255, 255, 255, 0.16), transparent),
+    radial-gradient(3px 3px at 200px 120px, rgba(255, 255, 255, 0.11), transparent),
+    radial-gradient(2px 2px at 250px 60px, rgba(255, 215, 0, 0.06), transparent),
+    radial-gradient(4px 4px at 300px 90px, rgba(255, 255, 255, 0.18), transparent),
+    radial-gradient(3px 3px at 350px 150px, rgba(255, 255, 255, 0.09), transparent),
+    radial-gradient(2px 2px at 400px 40px, rgba(255, 215, 0, 0.05), transparent),
+    radial-gradient(4px 4px at 450px 180px, rgba(255, 255, 255, 0.2), transparent),
+    radial-gradient(3px 3px at 500px 70px, rgba(255, 255, 255, 0.08), transparent),
+    radial-gradient(2px 2px at 550px 130px, rgba(255, 215, 0, 0.08), transparent),
+    radial-gradient(4px 4px at 600px 50px, rgba(255, 255, 255, 0.22), transparent),
+    radial-gradient(3px 3px at 650px 160px, rgba(255, 255, 255, 0.07), transparent),
+    radial-gradient(2px 2px at 700px 100px, rgba(255, 215, 0, 0.05), transparent),
+    radial-gradient(4px 4px at 750px 200px, rgba(255, 255, 255, 0.24), transparent),
+    radial-gradient(3px 3px at 800px 80px, rgba(255, 255, 255, 0.11), transparent),
+    radial-gradient(2px 2px at 850px 140px, rgba(255, 215, 0, 0.1), transparent),
+    radial-gradient(4px 4px at 900px 60px, rgba(255, 255, 255, 0.26), transparent),
+    radial-gradient(3px 3px at 950px 170px, rgba(255, 255, 255, 0.09), transparent),
+    radial-gradient(2px 2px at 1000px 110px, rgba(255, 215, 0, 0.07), transparent),
+    radial-gradient(4px 4px at 1050px 190px, rgba(255, 255, 255, 0.28), transparent),
+    radial-gradient(3px 3px at 1100px 90px, rgba(255, 255, 255, 0.08), transparent),
+    radial-gradient(2px 2px at 1150px 150px, rgba(255, 215, 0, 0.08), transparent),
+    radial-gradient(4px 4px at 1200px 70px, rgba(255, 255, 255, 0.3), transparent),
+    radial-gradient(3px 3px at 1250px 180px, rgba(255, 255, 255, 0.1), transparent),
+    radial-gradient(2px 2px at 1300px 120px, rgba(255, 215, 0, 0.05), transparent);
+  background-repeat: repeat;
+  background-size: 1350px 220px;
+  animation: shimmer 60s linear infinite; /* Slower animation for better performance */
+  pointer-events: none;
+  z-index: 1;
+  /* Optimize for performance */
+  will-change: transform;
+  transform: translateZ(0); /* Force hardware acceleration */
+}
+
+@keyframes shimmer {
+  0% { transform: translateX(0px) translateY(0px); }
+  100% { transform: translateX(200px) translateY(100px); }
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  z-index: 2;
+  /* Optimize for smooth scrolling */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+  /* Ensure smooth scrolling */
+  scroll-behavior: smooth;
+}
+
+/* Ensure html also has smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+code {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Global text styling */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Crimson Text', serif;
+  color: #ffffff;
+}
+
+/* Logo styling for consistent branding */
+.logo-text {
+  font-family: 'Crimson Text', serif;
+  background: linear-gradient(45deg, #ffd700, #ffed4e, #ffd700);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Hide scrollbar for Chrome, Safari, and Opera */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge, and Firefox */
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+@keyframes slide-up {
+  from {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.animate-slide-up {
+  animation: slide-up 0.3s ease-out forwards;
+}
+
+/* JavaScript-generated twinkling stars - optimized for performance */
+.stars {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+  /* Optimize for performance */
+  will-change: transform;
+  transform: translateZ(0); /* Force hardware acceleration */
+}
+
+.star {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: #ffffff;
+  border-radius: 50%;
+  animation: twinkle 3s infinite;
+  box-shadow: 0 0 4px rgba(255, 255, 255, 0.8);
+}
+
+@keyframes twinkle {
+  0%, 100% { 
+    opacity: 0.6; 
+    transform: scale(1);
+  }
+  50% { 
+    opacity: 1; 
+    transform: scale(1.2);
+  }
+}
