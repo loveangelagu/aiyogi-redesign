@@ -98,4 +98,7 @@ Ready to give your website a similar transformation? I specialize in:
 
 I’m always open to feedback, collaborations, or new opportunities. Drop me a message or just say hi!
 
-📩 [Email Me](mailto:angelagu93@gmail.com) | 🌐 [Website](https://distilledbyangelagu.co/essays) | 💼 [LinkedIn](https://www.linkedin.com/in/distilledbyangelagu/)
+- 📩 Email: [angelagu93@gmail.com](mailto:angelagu93@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/distilledbyangelagu](https://www.linkedin.com/in/distilledbyangelagu/)
+- 🌐 Website: [distilledbyangelagu.co/essays](https://distilledbyangelagu.co/essays)
+
