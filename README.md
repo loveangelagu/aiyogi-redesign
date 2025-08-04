@@ -1,45 +1,101 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+# AiYogi Website Redesign 🧘✨
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+A modern redesign of the spiritual guidance platform with the goal of elevating the user experience, enhancing the clarity of messaging, and evoking the user's curiosity so that they can perform further actions. 
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+## 🎯 Project Overview
 
----
+### Before & After
 
-## Edit a file
+## 🎨 Design Process
 
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
+### Design Philosophy
+- **Spiritual Aesthetics**: Maintained the mystical, cosmic theme with deep purples and starry backgrounds
+- **Modern UI/UX**: Implemented contemporary design patterns with smooth animations and intuitive navigation
+- **Mobile-First**: Responsive design optimized for all device sizes
+- **User Engagement**: Interactive elements and clear call-to-actions to improve conversion
 
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
+### Tools Used
+- **Design**: Canva AI for initial concepts and visual elements
+- **Development**: Cursor AI for efficient code generation and optimization
+- **Framework**: React.js for component-based architecture
 
----
+## 🛠️ Technical Stack
 
-## Create a file
+- **Frontend**: React.js
+- **Styling**: CSS3 with modern animations
+- **Development Environment**: Cursor IDE
+- **Package Manager**: npm
+- **Version Control**: Git
 
-Next, you’ll add a new file to this repository.
+## 🏃‍♂️ Quick Start Guide
 
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
+- Cursor IDE (recommended)
 
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
+### Installation & Setup
 
----
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/loveangelagu/aiyogi-redesign.git
+   cd aiyogi-redesign
+   ```
 
-## Clone a repository
+2. **Open in Cursor IDE**
+   - Launch Cursor
+   - Open the cloned repository folder
+   - Cursor will automatically detect the React project
 
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
+4. **Run the development server**
+   ```bash
+   npm start
+   ```
+   *Or simply tell Cursor: "Run the code" and it will execute the above commands automatically*
 
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+5. **View the website**
+   - Open your browser and go to `http://localhost:3000`
+   - The redesigned AiYogi website will load automatically
+
+### Using Cursor AI
+This project was built using Cursor AI for rapid development. To continue development:
+- Ask Cursor to run the code: it will handle npm install and npm start
+- Make changes and Cursor will provide real-time suggestions
+- Use Cursor's AI assistance for adding new features or modifications
+
+## 🎯 Key Improvements Made
+
+### Visual Design
+- **Before**: Cluttered, antiquated interface with poor visual hierarchy
+- **After**: Modern cosmic theme with engaging visuals and clear information architecture
+
+### User Experience
+- **Before**: Confusing navigation and unclear value proposition
+- **After**: Intuitive user flow with clear calls-to-action and engaging content presentation
+
+### Technical Implementation
+- **Before**: Basic static content
+- **After**: Dynamic React components with smooth animations and interactive elements
+
+## 🤝 Why Work With Me?
+
+## 📞 Let's Transform Your Website
+
+Ready to give your website a similar transformation? I specialize in:
+
+- **Complete Website Redesigns**: From concept to deployment
+- **Modern React Applications**: Scalable, maintainable solutions  
+- **UX/UI Design**: User-centered design that converts
+- **Full-Stack Development**: Frontend to backend integration
+- **AI-Assisted Development**: Faster delivery without compromising quality
+
+## 🤝 Let's Connect
+
+I’m always open to feedback, collaborations, or new opportunities. Drop me a message or just say hi!
+
+📩 [Email Me](mailto:angelagu93@gmail.com) | 🌐 [Website](https://distilledbyangelagu.co/essays) | 💼 [LinkedIn](https://www.linkedin.com/in/distilledbyangelagu/)
