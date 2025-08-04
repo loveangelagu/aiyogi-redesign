@@ -1,6 +1,6 @@
 # AiYogi Website Redesign 🧘✨
 
-A modern redesign of the spiritual guidance platform with the goal of elevating the user experience, enhancing the clarity of messaging, and evoking the user's curiosity so that they can perform further actions. 
+A modern redesign of the spiritual guidance platform with the goal of elevating the user experience, enhancing the clarity of messaging, and evoking curiosity, leading to app downloads. 
 
 ### 🛠️🔧 Before 🔧🛠️
 
@@ -127,5 +127,6 @@ I’m always open to feedback, collaborations, or new opportunities. Drop me a m
 - 📩 Email: [angelagu93@gmail.com](mailto:angelagu93@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/distilledbyangelagu](https://www.linkedin.com/in/distilledbyangelagu/)
 - 🌐 Website: [distilledbyangelagu.co/essays](https://distilledbyangelagu.co/essays)
+
 
 
