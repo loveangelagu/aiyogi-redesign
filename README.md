@@ -104,12 +104,6 @@ This project was built using Cursor AI for rapid development. To continue develo
 - **Before**: Confusing navigation and unclear value proposition
 - **After**: Intuitive user flow with clear calls-to-action and engaging content presentation
 
-### Technical Implementation
-- **Before**: Basic static content
-- **After**: Dynamic React components with smooth animations and interactive elements
-
-## 🤝 Why Work With Me?
-
 ## 📞 Let's Transform Your Website
 
 Ready to give your website a similar transformation? I specialize in:
@@ -127,6 +121,7 @@ I’m always open to feedback, collaborations, or new opportunities. Drop me a m
 - 📩 Email: [angelagu93@gmail.com](mailto:angelagu93@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/distilledbyangelagu](https://www.linkedin.com/in/distilledbyangelagu/)
 - 🌐 Website: [distilledbyangelagu.co/essays](https://distilledbyangelagu.co/essays)
+
 
 
 
