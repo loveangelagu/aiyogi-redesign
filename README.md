@@ -2,9 +2,35 @@
 
 A modern redesign of the spiritual guidance platform with the goal of elevating the user experience, enhancing the clarity of messaging, and evoking the user's curiosity so that they can perform further actions. 
 
-## 🎯 Project Overview
+### 🛠️🔧 Before 🔧🛠️
 
-### Before & After
+<p align="center">
+  <img src="./screenshots/before1.png" width="500" style="margin-right: 10px;" />
+  <img src="./screenshots/before2.png" width="500" />
+</p>
+<p align="center">
+  <img src="./screenshots/before3.png" width="500" style="margin-right: 10px;" />
+  <img src="./screenshots/before4.png" width="500" />
+</p>
+<p align="center">
+  <img src="./screenshots/before5.png" width="500" style="margin-right: 10px;" />
+  <img src="./screenshots/before6.png" width="500" />
+</p>
+
+### 🦄🌈 After 🌈🦄
+
+<p align="center">
+  <img src="./screenshots/after1.png" width="500" style="margin-right: 10px;" />
+  <img src="./screenshots/after2.png" width="500" />
+</p>
+<p align="center">
+  <img src="./screenshots/after3.png" width="500" style="margin-right: 10px;" />
+  <img src="./screenshots/after4.png" width="500" />
+</p>
+<p align="center">
+  <img src="./screenshots/after4.png" width="500" style="margin-right: 10px;" />
+  <img src="./screenshots/after6.png" width="500" />
+</p>
 
 ## 🎨 Design Process
 
@@ -101,4 +127,5 @@ I’m always open to feedback, collaborations, or new opportunities. Drop me a m
 - 📩 Email: [angelagu93@gmail.com](mailto:angelagu93@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/distilledbyangelagu](https://www.linkedin.com/in/distilledbyangelagu/)
 - 🌐 Website: [distilledbyangelagu.co/essays](https://distilledbyangelagu.co/essays)
+
 
